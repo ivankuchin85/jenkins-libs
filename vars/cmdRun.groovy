@@ -36,7 +36,4 @@ def call(String _command, String credentionalID){
     }     
 }
 
-def Выполнить(def КомандаСистемы) {
-   call(КомандаСистемы) 
-}
 
